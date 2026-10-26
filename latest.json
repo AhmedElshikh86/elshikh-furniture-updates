@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "product": "ElshikhFurnitureTools",
+  "version": "1.3.0",
+  "rbz_url": "https://github.com/AhmedElshikh86/elshikh-furniture-updates/releases/download/v1.3.0/Elshikh-Furniture-Tools-1.3.0.rbz",
+  "notes": "Standard and dark appearance modes, raised job action buttons, and the encrypted extension load fix. Restart SketchUp after installation."
+}
